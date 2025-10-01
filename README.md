@@ -15,10 +15,8 @@ This project was created as a learning exercise for Android development.
 
 ## 📸 Screenshot
 <div align="center">
-  <img src="screenshot.png" alt="Unit Converter Screenshot" width="300"/>
+  <img src="assets/screenshot.png" alt="Unit Converter Screenshot" width="300"/>
 </div>
-
-*(Replace `screenshot.png` with your actual screenshot file path if you want to display it on GitHub.)*
 
 ---
 
